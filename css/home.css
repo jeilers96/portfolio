@@ -94,3 +94,10 @@ hr.header-detail-dark:after, hr.header-detail:after {
     font-family: FontAwesome;
     font-size: 1.75em;
 }
+
+.footer {
+  color: #fff;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  text-align: center;
+}
