@@ -1,15 +1,3 @@
-.navbar-brand {
-  font-size: 2.5rem;
-}
-
-.nav-link {
-  font-size: 1.25rem;
-}
-
-.bg-primary {
-  background-color: #01A1FF !important;
-}
-
 .main-header {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
@@ -95,9 +83,6 @@ hr.header-detail-dark:after, hr.header-detail:after {
     font-size: 1.75em;
 }
 
-.footer {
-  color: #fff;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  text-align: center;
+.project-card:hover {
+  box-shadow: 0 15px 21px 0 rgba(0,0,0,0.3);
 }

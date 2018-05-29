@@ -1,0 +1,11 @@
+section {
+  padding-top: 6rem;
+}
+
+h1 {
+  font-size: 3.25rem;
+}
+
+a, a:hover {
+  color: #343a40;
+}
