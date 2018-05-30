@@ -16,3 +16,7 @@
   padding-top: 1rem;
   text-align: center;
 }
+
+.bg-blue {
+  background-color: #004E64 !important;
+}
