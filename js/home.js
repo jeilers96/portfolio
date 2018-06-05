@@ -1,7 +1,7 @@
 
 //function to add smooth scrolling and scroll spy to nav
 $(document).ready(function(){
-  $('body').scrollspy({target: ".navbar", offset: 50});
+  $('body').scrollspy({target: ".navbar", offset: 180});
 
   $("#navbar a").on('click', function(event) {
 
