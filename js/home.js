@@ -1,7 +1,10 @@
 
-//function to add smooth scrolling and scroll spy to nav
+
 $(document).ready(function(){
+  //add scrollspy
   $('body').scrollspy({target: ".navbar", offset: 180});
+
+  $(".fade-in").fadeTo(2000, 1);
 
   $("#navbar a").on('click', function(event) {
 

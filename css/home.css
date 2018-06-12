@@ -86,3 +86,7 @@ hr.header-detail-dark:after, hr.header-detail:after {
 .project-card:hover {
   box-shadow: 0 15px 21px 0 rgba(0,0,0,0.3);
 }
+
+.fade-in {
+  opacity: 0;
+}
