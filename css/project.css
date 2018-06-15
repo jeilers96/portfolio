@@ -10,3 +10,7 @@ h1 {
 a, a:hover {
   color: #343a40;
 }
+
+.external-project-link {
+    color: #0056b3;
+}
