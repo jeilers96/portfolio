@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://hopeful-chandrasekhar-1702b3.netlify.com/* http://www.josheilers.com/:splat 301!
