@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://hopeful-chandrasekhar-1702b3.netlify.com/* http://josheilers.com
+http://josheilers.netlify.com/* http://josheilers.com
