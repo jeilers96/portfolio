@@ -60,6 +60,10 @@ hr.header-detail-dark:after {
     color: #343a40;
     background-color: #fff;
 }
+
+hr.header-detail {
+  color: #fff;
+}
 hr.header-detail, hr.header-detail-dark{
     max-width: 15rem;
     padding: 0;
@@ -68,6 +72,8 @@ hr.header-detail, hr.header-detail-dark{
     border-top: solid .25rem;
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 hr.header-detail:after {
     color: #fff;
