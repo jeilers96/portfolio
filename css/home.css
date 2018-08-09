@@ -107,3 +107,7 @@ hr.header-detail-dark:after, hr.header-detail:after {
   margin-left: auto;
   margin-right: auto;
 }
+
+.profile-picture {
+  width: 16rem;
+}
